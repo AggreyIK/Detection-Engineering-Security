@@ -4,6 +4,7 @@ This repository documents the end-to-end design, deployment, and operation of a 
 
 The lab is built to reflect real-world SOC workflows, progressing from infrastructure and identity engineering to endpoint visibility, attack detection, dashboarding, and incident investigation. All phases are implemented hands-on and supported with technical documentation and evidence.
 
+---
 
 # Focus
 
