@@ -7,13 +7,10 @@ The lab is built to reflect real-world SOC workflows, progressing from infrastru
 
 # Focus
 
-Map detections to MITRE ATT&CK techniques
-
-Build behavioral detections (not just signatures)
-
-Detection lifecycle: build → test → tune → measure
-
-Purple team feedback loop
+- Map detections to MITRE ATT&CK techniques
+- Build behavioral detections (not just signatures)
+- Detection lifecycle: build → test → tune → measure
+- Purple team feedback loop
 
 ---
 
