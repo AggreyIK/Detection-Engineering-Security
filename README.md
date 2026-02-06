@@ -1,8 +1,13 @@
 # Detection Engineering & Security Monitoring.
 
-This repository documents the end-to-end design, deployment, and operation of a realistic enterprise Security Operations Center (SOC) lab. The project simulates a corporate environment with centralized identity management, multiple Windows endpoints across headquarters and branch locations, attacker activity, and a fully functional SIEM/EDR platform for detection and response.
+This project simulates a real enterprise Security Operations Center (SOC) using Active Directory, multiple Windows endpoints, attacker simulation, and a Wazuh SIEM/EDR platform.
 
-The lab is built to reflect real-world SOC workflows, progressing from infrastructure and identity engineering to endpoint visibility, attack detection, dashboarding, and incident investigation. All phases are implemented hands-on and supported with technical documentation and evidence.
+The objective is to demonstrate practical skills in:
+- Detection Engineering
+- SIEM Monitoring
+- Threat Simulation
+- Incident Investigation
+- MITRE ATT&CK–based detection
 
 ---
 
