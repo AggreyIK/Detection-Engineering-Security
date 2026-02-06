@@ -1,8 +1,19 @@
-# Detection Engineering & Security Monitoring - Enterprise SOC Lab
+# Detection Engineering & Security Monitoring.
 
 This repository documents the end-to-end design, deployment, and operation of a realistic enterprise Security Operations Center (SOC) lab. The project simulates a corporate environment with centralized identity management, multiple Windows endpoints across headquarters and branch locations, attacker activity, and a fully functional SIEM/EDR platform for detection and response.
 
 The lab is built to reflect real-world SOC workflows, progressing from infrastructure and identity engineering to endpoint visibility, attack detection, dashboarding, and incident investigation. All phases are implemented hands-on and supported with technical documentation and evidence.
+
+
+# Focus
+
+Map detections to MITRE ATT&CK techniques
+
+Build behavioral detections (not just signatures)
+
+Detection lifecycle: build → test → tune → measure
+
+Purple team feedback loop
 
 ---
 
