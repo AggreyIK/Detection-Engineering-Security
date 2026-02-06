@@ -40,7 +40,7 @@ The environment uses isolated internal networking with static IP addressing and 
 - Wazuh (SIEM & EDR)
 - Sysmon
 - Parrot VM
-- VirtualBox / VMware (virtualization)
+- VMware (virtualization - Type 2 Hypervisor)
 
 ---
 
