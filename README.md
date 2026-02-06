@@ -39,7 +39,7 @@ The environment uses isolated internal networking with static IP addressing and 
 - Windows 10 Enterprise Endpoints
 - Wazuh (SIEM & EDR)
 - Sysmon
-- Kali Linux
+- Parrot Linux
 - VirtualBox / VMware (virtualization)
 
 ---
@@ -56,7 +56,7 @@ The environment uses isolated internal networking with static IP addressing and 
 
 ### Phase 2 – Active Directory & Identity Management
 - Deployed Windows Server Domain Controller
-- Created corporate domain (`corp.local`)
+- Created corporate domain (`infoknox.local`)
 - Configured DNS and directory services
 - Created enterprise user accounts and roles
 - Joined all endpoints to the domain
@@ -131,4 +131,4 @@ The environment uses isolated internal networking with static IP addressing and 
 
 ## Disclaimer
 
-All attack simulations were performed in a controlled lab environment for educational and defensive security purposes only.
+!!All attack simulations were performed in a controlled lab environment for educational and defensive security purposes only!!
