@@ -80,11 +80,11 @@ The environment uses isolated internal networking with static IP addressing and 
 
 ### Phase 5 – Attack Simulation & Detection
 - Simulated attacker techniques including:
-  - Password brute force
-  - PowerShell abuse
-  - Active Directory reconnaissance
-  - Persistence via scheduled tasks
-  - Mass file creation (ransomware-like behavior)
+- Password brute force
+- PowerShell abuse
+- Active Directory reconnaissance
+- Persistence via scheduled tasks
+- Mass file creation (ransomware-like behavior)
 - Observed and validated detections in Wazuh
 
 ---
@@ -99,12 +99,12 @@ The environment uses isolated internal networking with static IP addressing and 
 
 ### Phase 7 – SOC Dashboards
 - Built SOC dashboards for:
-  - Active alerts over time
-  - High-severity alert queue
-  - Top attacked hosts
-  - Targeted user accounts
-  - MITRE ATT&CK technique coverage
-  - HQ vs Branch activity comparison
+- Active alerts over time
+- High-severity alert queue
+- Top attacked hosts
+- Targeted user accounts
+- MITRE ATT&CK technique coverage
+- HQ vs Branch activity comparison
 
 ---
 
