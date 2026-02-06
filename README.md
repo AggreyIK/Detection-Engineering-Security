@@ -2,7 +2,6 @@
 
 This project simulates a real enterprise Security Operations Center (SOC) using Active Directory, multiple Windows endpoints, attacker simulation, and a Wazuh SIEM/EDR platform.
 
----
 
 # Focus
 
