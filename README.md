@@ -39,7 +39,7 @@ The environment uses isolated internal networking with static IP addressing and 
 - Windows 10 Enterprise Endpoints
 - Wazuh (SIEM & EDR)
 - Sysmon
-- Parrot Linux
+- Parrot VM
 - VirtualBox / VMware (virtualization)
 
 ---
